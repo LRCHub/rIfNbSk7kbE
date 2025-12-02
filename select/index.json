@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ラグトレイン",
+  "base_artist": "稲葉曇",
+  "createdAt": "2025-12-02T08:46:05.445464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラグトレイン",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_ラグトレイン_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラグトレイン (Lagtrain)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/02_ラグトレイン_(Lagtrain)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラグトレイン",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/03_ラグトレイン_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラグトレイン",
+      "artist": "稲葉曇 (Inabakumori)",
+      "has_synced": true,
+      "path": "select/04_ラグトレイン_稲葉曇_(Inabakumori).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラグトレイン - Live",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/05_ラグトレイン_-_Live_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラグトレイン (Instrumental)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/06_ラグトレイン_(Instrumental)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラグトレイン",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/07_ラグトレイン_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラグトレイン (noPerc)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/08_ラグトレイン_(noPerc)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラグトレイン (feat. 宵崎奏&暁山瑞希&MEIKO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/09_ラグトレイン_(feat._宵崎奏&暁山瑞希&MEIKO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラグトレイン",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/10_ラグトレイン_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラグトレイン (Paused)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/11_ラグトレイン_(Paused)_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラグトレイン",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ラグトレイン_稲葉曇.txt"
+    }
+  ]
+}
